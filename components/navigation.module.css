@@ -1,0 +1,18 @@
+
+
+.nav {
+  padding: 20px;
+  background: #f5f5f5;
+}
+
+.action {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
+.action a {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+}
