@@ -13,6 +13,7 @@ const Navigation = () => {
         <li><Link href="/clientcomp">ClientComp</Link></li>
         <li><Link href="/servercomp">ServerComp</Link></li>
         <li><Link href="/isr">Incremental-Site-Regeneration</Link></li>
+        <li><Link href="/ssg">Server Site Generation</Link></li>
       </ul>
     </nav>
   );
